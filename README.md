@@ -11,3 +11,6 @@ The name of a city will be adjacent (by side or corner) to the city with the fir
 The name will be unambiguously assigned to the city. There will be no number or letter before or after the name of the city (if there is such a field).
 
 Example of the maps and the solutions can be found in Example_maps.zip file
+
+
+Additional remarks this was a student project and it was forbbiden to use many libraries, that is why class called my_own_string exists in this project
